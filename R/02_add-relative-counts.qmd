@@ -21,7 +21,7 @@ library(vroom)
 stats <-
   readRDS(
     here("data", "comprehensive-com-data",
-         "republic-of-ireland_all-com-data_no-relative-counts.RDS"))
+         "scotland_all-com-data_no-relative-counts.RDS"))
 ```
 
 ## Make relative
@@ -58,10 +58,10 @@ all(round(check[["all"]], 10) == 1)
 ```{r save}
 saveRDS(relative,
         here("data", "comprehensive-com-data",
-             "republic-of-ireland_all-com-data.RDS"))
+             "scotland_all-com-data.RDS"))
 
 vroom_write(relative,
             here("data", "comprehensive-com-data",
-                 "republic-of-ireland_all-com-data.csv"),
+                 "scotland_all-com-data.csv"),
             delim = ",")
 ```
