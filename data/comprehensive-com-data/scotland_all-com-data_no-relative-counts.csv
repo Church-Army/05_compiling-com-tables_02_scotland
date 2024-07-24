@@ -1,0 +1,459 @@
+com,com_label,diocese,diocese_label,nation,nation_label,level,statistic,category,units,count
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_0_4,persons,1710.2872941
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_100_plus,persons,16.0000001
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_10_14,persons,2122.3577585
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_15_19,persons,2016.7069983
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_20_24,persons,2108.9654257
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_25_29,persons,2172.4858005
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_30_34,persons,2218.5191139
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_35_39,persons,2219.1890893
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_40_44,persons,2191.4006064
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_45_49,persons,2311.285477
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_50_54,persons,3057.0825704
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_55_59,persons,3329.4342732
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_5_9,persons,2029.708074
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_60_64,persons,3223.042476
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_65_69,persons,2888.9182214
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_70_74,persons,2739.5327156
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_75_79,persons,2048.8333109
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_80_84,persons,1361.4641327
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_85_89,persons,804.1398326
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_90_94,persons,369.3412296
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,age-five-year,age_95_99,persons,88.5473913
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_0_4,persons,54379.43838
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_100_plus,persons,242.997
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_10_14,persons,64380.01897
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_15_19,persons,65687.06759
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_20_24,persons,82831.12633
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_25_29,persons,80061.03026
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_30_34,persons,84794.376439999993
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_35_39,persons,80377.08235
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_40_44,persons,76155.58509
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_45_49,persons,73437.03299
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_50_54,persons,82752.59203
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_55_59,persons,83040.4171
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_5_9,persons,61249.28592
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_60_64,persons,74235.68316
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_65_69,persons,61674.33078
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_70_74,persons,57225.60999
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_75_79,persons,43667.73042
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_80_84,persons,28323.8759
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_85_89,persons,17431.52329
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_90_94,persons,7326.2732
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,age-five-year,age_95_99,persons,1775.91336
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_0_4,persons,248693
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_10_14,persons,301759
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_15_19,persons,299617
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_20_24,persons,341421
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_25_29,persons,337384
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_30_34,persons,357096
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_35_39,persons,346769
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_40_44,persons,334249
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_45_49,persons,328916
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_50_54,persons,390980
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_55_59,persons,408979
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_5_9,persons,282489
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_60_64,persons,371679
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_65_69,persons,314699
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_70_74,persons,285007
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_75_79,persons,218262
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_80_84,persons,142093
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_85_89,persons,85879
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_90_94,persons,35343
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,age-five-year,age_95_99,persons,8289
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,african_african_african_scottish_or_african_british,persons,5.0019397
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,african_other_african,persons,60.5898833
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,18.3933696
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,95.9739794
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,87.9767679
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,112.2923544
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,74.1952743
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,3
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,10.2464827
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,16
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,mixed_or_multiple_ethnic_group,persons,301.1953209
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,54.9153664
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,80.6364021
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,other_white,persons,776.3867018
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,white_gypsy_traveller,persons,9.9985503
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,white_other_white_british,persons,5255.6403127
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,white_white_irish,persons,251.4086082
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,white_white_polish,persons,793.7665058
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group,white_white_scottish,persons,32864.9187987
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,african_african_african_scottish_or_african_british,persons,1112.65271
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,african_other_african,persons,11343.39724
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,2984.94135
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,17249.40164
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,15380.85068
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,8384.47968
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,12911.021
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,135.99971
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,695.85677
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,1113.79863
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,mixed_or_multiple_ethnic_group,persons,18956.23481
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,4957.59852
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,7631.90685
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,other_white,persons,57381.87898
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,white_gypsy_traveller,persons,564.70159
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,white_other_white_british,persons,135414.43736
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,white_white_irish,persons,15408.37331
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,white_white_polish,persons,29028.2094
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group,white_white_scottish,persons,840314.67559
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,47276
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,52878
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,32258
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,72860
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,532
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,2220
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,3984
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,mixed_or_multiple_ethnic_group,persons,60839
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,22278
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,27282
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,other_white,persons,163635
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,white_gypsy_traveller,persons,3326
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,white_other_white_british,persons,510471
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group-grouped,african_total,persons,63.591823
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,378.8317456
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group-grouped,caribbean_or_black_total,persons,31.4108045
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group-grouped,other_ethnic_groups_total,persons,136.5517685
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,ethnic-group-grouped,white_total,persons,39920.2078667
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group-grouped,african_total,persons,12464.19041
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,56792.78333
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group-grouped,caribbean_or_black_total,persons,1963.65599
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group-grouped,other_ethnic_groups_total,persons,12663.22733
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,ethnic-group-grouped,white_total,persons,1078106.38599
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,buddhist,persons,133.9062995
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,church_of_scotland,persons,9569.2401314
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,hindu,persons,52.9768759
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,jewish,persons,18.4238356
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,muslim,persons,200.0715289
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,no_religion,persons,23705.2873195
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,other_christian,persons,2005.5620807
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,other_religion,persons,82.998931
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,pagan,persons,200.4107818
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,religion_not_stated,persons,2684.3303036
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,roman_catholic,persons,2256.2806551
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,centre-of-mission,religion,sikh,persons,22
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,buddhist,persons,4134.60672
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,church_of_scotland,persons,214164.26055
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,hindu,persons,10126.42789
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,jewish,persons,1567.63067
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,muslim,persons,25560.76311
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,no_religion,persons,662320.27368
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,other_christian,persons,64607.55661
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,other_religion,persons,2891.06574
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,pagan,persons,4403.73842
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,religion_not_stated,persons,71922.28624
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,roman_catholic,persons,117631.40631
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,diocese,religion,sikh,persons,1867.67893
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,buddhist,persons,15527
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,church_of_scotland,persons,1107708
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,hindu,persons,29961
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,jewish,persons,5829
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,muslim,persons,120104
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,no_religion,persons,2780882
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,other_christian,persons,279435
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,other_religion,persons,12421
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,pagan,persons,19239
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,religion_not_stated,persons,334740
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,roman_catholic,persons,723310
+a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,sikh,persons,10984
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_0_4,persons,248693
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_10_14,persons,301759
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_15_19,persons,299617
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_20_24,persons,341421
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_25_29,persons,337384
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_30_34,persons,357096
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_35_39,persons,346769
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_40_44,persons,334249
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_45_49,persons,328916
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_50_54,persons,390980
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_55_59,persons,408979
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_5_9,persons,282489
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_60_64,persons,371679
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_65_69,persons,314699
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_70_74,persons,285007
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_75_79,persons,218262
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_80_84,persons,142093
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_85_89,persons,85879
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_90_94,persons,35343
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_95_99,persons,8289
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,47276
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,52878
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,32258
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,72860
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,532
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,2220
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,3984
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,mixed_or_multiple_ethnic_group,persons,60839
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,22278
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,27282
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,other_white,persons,163635
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_gypsy_traveller,persons,3326
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_other_white_british,persons,510471
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,buddhist,persons,15527
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,church_of_scotland,persons,1107708
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,hindu,persons,29961
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,jewish,persons,5829
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,muslim,persons,120104
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,no_religion,persons,2780882
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,other_christian,persons,279435
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,other_religion,persons,12421
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,pagan,persons,19239
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,religion_not_stated,persons,334740
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,roman_catholic,persons,723310
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,sikh,persons,10984
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,NA,NA,NA,NA,NA
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_0_4,persons,968.1695564
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_100_plus,persons,2
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_10_14,persons,1415.0028449
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_15_19,persons,1257.3747131
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_20_24,persons,931.5935884
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_25_29,persons,1073.3398995
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_30_34,persons,1296.6944244
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_35_39,persons,1331.9573182
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_40_44,persons,1248.5068752
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_45_49,persons,1145.7314511
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_50_54,persons,1479.8196403
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_55_59,persons,1519.2020128
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_5_9,persons,1214.3814977
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_60_64,persons,1354.7207329
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_65_69,persons,1118.2584125
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_70_74,persons,962.8089554
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_75_79,persons,766.2618257
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_80_84,persons,510.8921178
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_85_89,persons,275.4552635
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_90_94,persons,114.040042
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_95_99,persons,20.7664122
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_0_4,persons,248693
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_10_14,persons,301759
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_15_19,persons,299617
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_20_24,persons,341421
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_25_29,persons,337384
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_30_34,persons,357096
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_35_39,persons,346769
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_40_44,persons,334249
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_45_49,persons,328916
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_50_54,persons,390980
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_55_59,persons,408979
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_5_9,persons,282489
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_60_64,persons,371679
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_65_69,persons,314699
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_70_74,persons,285007
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_75_79,persons,218262
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_80_84,persons,142093
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_85_89,persons,85879
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_90_94,persons,35343
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_95_99,persons,8289
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,african_african_african_scottish_or_african_british,persons,16.1931273
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,african_other_african,persons,163.7549423
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,14.6452328
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,35.0789675
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,41.6098018
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,40.4593906
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,234.7756766
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,3
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,8
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,4.0040373
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,mixed_or_multiple_ethnic_group,persons,170.6383912
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,44.7190472
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,17.9818705
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_white,persons,323.2725546
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_gypsy_traveller,persons,17.0005547
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_other_white_british,persons,697.6366555
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_irish,persons,71.7829003
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_polish,persons,446.7719984
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_scottish,persons,17693.9349177
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,47276
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,52878
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,32258
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,72860
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,532
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,2220
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,3984
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,mixed_or_multiple_ethnic_group,persons,60839
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,22278
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,27282
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,other_white,persons,163635
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_gypsy_traveller,persons,3326
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_other_white_british,persons,510471
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,african_total,persons,174.9480696
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,360.4677309
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,caribbean_or_black_total,persons,15.0040373
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,other_ethnic_groups_total,persons,59.7009177
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,white_total,persons,19238.3469375
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,buddhist,persons,31.0963679
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,church_of_scotland,persons,3062.0004009
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,hindu,persons,27.1531325
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,jewish,persons,7
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,muslim,persons,314.9271645
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,no_religion,persons,11402.0439196
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,other_christian,persons,733.3733268
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,other_religion,persons,32.6485907
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,pagan,persons,69.6932827
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,religion_not_stated,persons,1023.2815917
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,roman_catholic,persons,3310.4856484
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,sikh,persons,7.9973972
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,buddhist,persons,15527
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,church_of_scotland,persons,1107708
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,hindu,persons,29961
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,jewish,persons,5829
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,muslim,persons,120104
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,no_religion,persons,2780882
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,other_christian,persons,279435
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,other_religion,persons,12421
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,pagan,persons,19239
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,religion_not_stated,persons,334740
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,roman_catholic,persons,723310
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,sikh,persons,10984
+dundee,Dundee,brechnin,Brechin,scotland,Scotland,NA,NA,NA,NA,NA
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_0_4,persons,4648.11252
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_100_plus,persons,43.65414
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_10_14,persons,6236.91804
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_15_19,persons,5653.41819
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_20_24,persons,4925.6848
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_25_29,persons,5432.34678
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_30_34,persons,6304.11566
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_35_39,persons,6251.40308
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_40_44,persons,6697.38039
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_45_49,persons,7459.27298
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_50_54,persons,9643.2785
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_55_59,persons,11079.15544
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_5_9,persons,5738.75268
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_60_64,persons,10521.00994
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_65_69,persons,9377.14864
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_70_74,persons,9031.93558
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_75_79,persons,6741.45772
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_80_84,persons,4511.24014
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_85_89,persons,2627.1644
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_90_94,persons,1007.67598
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_95_99,persons,221.67069
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_0_4,persons,248693
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_10_14,persons,301759
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_15_19,persons,299617
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_20_24,persons,341421
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_25_29,persons,337384
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_30_34,persons,357096
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_35_39,persons,346769
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_40_44,persons,334249
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_45_49,persons,328916
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_50_54,persons,390980
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_55_59,persons,408979
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_5_9,persons,282489
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_60_64,persons,371679
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_65_69,persons,314699
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_70_74,persons,285007
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_75_79,persons,218262
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_80_84,persons,142093
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_85_89,persons,85879
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_90_94,persons,35343
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,age-five-year,age_95_99,persons,8289
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,african_african_african_scottish_or_african_british,persons,11.99918
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,african_other_african,persons,135.02316
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,85.97938
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,216.23476
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,248.17354
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,314.83339
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,101.55197
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,20.70627
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,37.35092
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,32.73696
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,mixed_or_multiple_ethnic_group,persons,917.83445
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,139.39618
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,263.65815
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,other_white,persons,3307.65637
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,white_gypsy_traveller,persons,125.88582
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,white_other_white_british,persons,21594.75431
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,white_white_irish,persons,935.56344
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,white_white_polish,persons,1200.89005
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group,white_white_scottish,persons,94393.74019
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,47276
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,52878
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,32258
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,72860
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,532
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,2220
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,3984
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,mixed_or_multiple_ethnic_group,persons,60839
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,22278
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,27282
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,other_white,persons,163635
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,white_gypsy_traveller,persons,3326
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,white_other_white_british,persons,510471
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group-grouped,african_total,persons,148.0218
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,980.69027
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group-grouped,caribbean_or_black_total,persons,90.79415
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group-grouped,other_ethnic_groups_total,persons,401.06655
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,ethnic-group-grouped,white_total,persons,121549.34735
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,buddhist,persons,399.7446
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,church_of_scotland,persons,35178.41321
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,hindu,persons,100.45625
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,jewish,persons,76.1958
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,muslim,persons,450.79236
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,no_religion,persons,55523.95853
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,other_christian,persons,10984.96859
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,other_religion,persons,301.24456
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,pagan,persons,794.19488
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,religion_not_stated,persons,8368.95508
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,roman_catholic,persons,11912.37219
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,religion,sikh,persons,37.40411
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,buddhist,persons,15527
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,church_of_scotland,persons,1107708
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,hindu,persons,29961
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,jewish,persons,5829
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,muslim,persons,120104
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,no_religion,persons,2780882
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,other_christian,persons,279435
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,other_religion,persons,12421
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,pagan,persons,19239
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,religion_not_stated,persons,334740
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,roman_catholic,persons,723310
+west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,nation,religion,sikh,persons,10984
