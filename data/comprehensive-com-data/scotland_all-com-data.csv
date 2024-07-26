@@ -170,6 +170,27 @@ a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,pagan,persons,19239,
 a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,religion_not_stated,persons,334740,0.06153150470392306
 a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,roman_catholic,persons,723310,0.1329579753462227
 a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,sikh,persons,10984,0.0020190656858095563
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_0_4,persons,29932.86154,0.0437697764182692
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_100_plus,persons,143.98812,2.1054879136312994e-4
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_10_14,persons,39119.3376,0.057202839030096674
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_15_19,persons,39008.98549,0.057041474999613664
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_20_24,persons,40636.93885,0.05942197425429902
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_25_29,persons,36010.03136,0.052656209274740205
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_30_34,persons,38949.20174,0.056954055313144694
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_35_39,persons,39597.54015,0.05790209789207269
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_40_44,persons,40149.57591,0.05870932047444426
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_45_49,persons,41060.50935,0.06004134658051647
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_50_54,persons,50668.27108,0.0740904404915727
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_55_59,persons,53547.55502,0.0783007166835132
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_5_9,persons,34661.45334,0.05068423080755914
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_60_64,persons,48803.76541,0.07136403906825943
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_65_69,persons,41922.81474,0.061302265590018175
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_70_74,persons,39848.42005,0.058268950794397575
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_75_79,persons,31767.45673,0.04645244079290727
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_80_84,persons,19778.28194,0.028921089862873554
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_85_89,persons,11859.07525,0.01734111092340054
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_90_94,persons,5118.25355,0.007484243136465349
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_95_99,persons,1286.24346,0.0018808288204730384
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_0_4,persons,248693,0.04570949959095555
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126,2.069575602828224e-4
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_10_14,persons,301759,0.05546297196570533
@@ -191,6 +212,25 @@ central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dun
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_85_89,persons,85879,0.015784465647893875
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_90_94,persons,35343,0.006496004487633918
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_95_99,persons,8289,0.0015235090738759457
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,african_african_african_scottish_or_african_british,persons,271.68933,3.976048233516777e-4
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,african_other_african,persons,2104.58551,0.003079963979196572
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,279.92875,4.0966283510215863e-4
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,3020.36238,0.0044201612575582305
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,3113.28666,0.004556151662240232
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,3018.55305,0.00441751338642161
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,4113.17512,0.006019442379287092
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,46.04159,6.737974678203362e-5
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,242.69694,3.5517579566592746e-4
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,312.61063,4.57491261504479e-4
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,mixed_or_multiple_ethnic_group,persons,6024.57097,0.008816682187322174
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,1267.29665,0.0018546302891520362
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,2173.92815,0.0031814437396565764
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,other_white,persons,19855.17835,0.02905713919817096
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_gypsy_traveller,persons,715.82275,0.001047573631488812
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_other_white_british,persons,73363.30006,0.10736381130923481
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_white_irish,persons,5628.10193,0.008236468004403731
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_white_polish,persons,10563.67595,0.015459453302947587
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_white_scottish,persons,547200.17041,0.8008022512105132
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932,0.0010904806663035408
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763,0.00969943213017089
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904,0.0012691636075791715
@@ -210,11 +250,28 @@ central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dun
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766,0.010435304366720632
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721,0.01667725834924537
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878,0.777027771042444
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,african_total,persons,2385.27556,0.003521461057668345
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,13531.39615,0.0199768468671638
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,caribbean_or_black_total,persons,596.37388,8.804464479695481e-4
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,other_ethnic_groups_total,persons,3429.26269,0.005062733724295567
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,white_total,persons,657411.64252,0.9705585119029028
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632,0.010901073206864374
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967,0.039409670221712045
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739,0.001252939219897991
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588,0.009219580061774979
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627,0.9392167372897506
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,buddhist,persons,1770.80538,0.0025901781591074606
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,church_of_scotland,persons,145985.86316,0.213535263991282
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,hindu,persons,1713.37461,0.00250617348654727
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,jewish,persons,420.71111,6.153791606482787e-4
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,muslim,persons,6417.28354,0.009386637206911923
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,no_religion,persons,393047.71201,0.5749155783203352
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,other_christian,persons,35562.32076,0.052017430915940535
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,other_religion,persons,1669.14292,0.0024414752657984646
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,pagan,persons,2725.95791,0.003987291161905223
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,religion_not_stated,persons,40935.07418,0.059876221452681455
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,roman_catholic,persons,52728.61302,0.07712677143799578
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,sikh,persons,684.75509,0.0010015994408463247
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,buddhist,persons,15527,0.0028541544886712474
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,church_of_scotland,persons,1107708,0.20361755396000839
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,hindu,persons,29961,0.005507395030274956
@@ -227,122 +284,177 @@ central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dun
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,religion_not_stated,persons,334740,0.06153150470392306
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,roman_catholic,persons,723310,0.1329579753462227
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,sikh,persons,10984,0.0020190656858095563
-central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,NA,NA,NA,NA,NA,NA
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_0_4,persons,968.1695564,0.048391594999050005
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_100_plus,persons,2,9.996512424742465e-5
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_10_14,persons,1415.0028449,0.07072546760044393
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_15_19,persons,1257.3747131,0.06284680971030572
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_20_24,persons,931.5935884,0.04656343440625509
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_25_29,persons,1073.3398995,0.0536482782066179
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_30_34,persons,1296.6944244,0.0648121096230444
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_35_39,persons,1331.9573182,0.06657463940306477
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_40_44,persons,1248.5068752,0.062403572451565956
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_45_49,persons,1145.7314511,0.05726659343169682
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_50_54,persons,1479.8196403,0.07396517710318438
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_55_59,persons,1519.2020128,0.0759336089832448
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_5_9,persons,1214.3814977,0.06069789865067707
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_60_64,persons,1354.7207329,0.06771241319245534
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_65_69,persons,1118.2584125,0.05589342057314518
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_70_74,persons,962.8089554,0.04812365842654707
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_75_79,persons,766.2618257,0.03829972930607948
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_80_84,persons,510.8921178,0.025535697016453456
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_85_89,persons,275.4552635,0.0137679598201923
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_90_94,persons,114.040042,0.005700013483855763
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_95_99,persons,20.7664122,0.0010379584878731176
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_0_4,persons,248693,0.04570949959095555
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126,2.069575602828224e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_10_14,persons,301759,0.05546297196570533
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_15_19,persons,299617,0.055069274724030545
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_20_24,persons,341421,0.06275280389815409
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_25_29,persons,337384,0.062010807742859456
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_30_34,persons,357096,0.06563385164010191
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_35_39,persons,346769,0.063735760410048
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_40_44,persons,334249,0.0614345981944699
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_45_49,persons,328916,0.06045439866606111
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_50_54,persons,390980,0.07186169353408339
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_55_59,persons,408979,0.07516988991732541
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_5_9,persons,282489,0.051921167181824344
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_60_64,persons,371679,0.06831419098433317
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_65_69,persons,314699,0.05784132971886672
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_70_74,persons,285007,0.05238397280952608
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_75_79,persons,218262,0.04011631529524812
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_80_84,persons,142093,0.02611653695672032
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_85_89,persons,85879,0.015784465647893875
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_90_94,persons,35343,0.006496004487633918
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,age-five-year,age_95_99,persons,8289,0.0015235090738759457
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,african_african_african_scottish_or_african_british,persons,16.1931273,8.078282469990904e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,african_other_african,persons,163.7549423,0.008169260052420276
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,14.6452328,7.306082710606234e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,35.0789675,0.001749988146024336
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,41.6098018,0.002075792564545182
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,40.4593906,0.002018401879854886
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,234.7756766,0.01171227890401401
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,3,1.496613159458872e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,8,0.00039909684252236583
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,4.0040373,1.9974983047147237e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,mixed_or_multiple_ethnic_group,persons,170.6383912,0.008512655392627032
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,44.7190472,0.0022309038172660806
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,17.9818705,8.970634673995094e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_white,persons,323.2725546,0.016127131976874886
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_gypsy_traveller,persons,17.0005547,8.481084627373457e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_other_white_british,persons,697.6366555,0.03480307330473918
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_irish,persons,71.7829003,0.003581041107103473
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_polish,persons,446.7719984,0.022288161736105934
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_scottish,persons,17693.9349177,0.8826991946812884
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932,0.0010904806663035408
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763,0.00969943213017089
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904,0.0012691636075791715
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,47276,0.008690755896858766
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,52878,0.00972057260161811
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,32258,0.0059299941560383715
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,72860,0.013393867388212403
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,532,9.779765921670325e-5
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,2220,4.081030140245888e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,3984,7.32379463006289e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,mixed_or_multiple_ethnic_group,persons,60839,0.011184044716325205
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,22278,0.004095368894792698
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,27282,0.0050152551480265005
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,other_white,persons,163635,0.03008105256752864
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_gypsy_traveller,persons,3326,6.114192002908929e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_other_white_british,persons,510471,0.09383997913159722
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766,0.010435304366720632
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721,0.01667725834924537
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878,0.777027771042444
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,african_total,persons,174.9480696,0.008814185170661779
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,360.4677309,0.01816098534533862
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,caribbean_or_black_total,persons,15.0040373,7.559292501602785e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,other_ethnic_groups_total,persons,59.7009177,0.0030078350945476184
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,white_total,persons,19238.3469375,0.9692610651392917
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632,0.010901073206864374
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967,0.039409670221712045
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739,0.001252939219897991
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588,0.009219580061774979
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627,0.9392167372897506
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,buddhist,persons,31.0963679,0.0015531331815943053
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,church_of_scotland,persons,3062.0004009,0.1529340802754284
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,hindu,persons,27.1531325,0.001356185108357196
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,jewish,persons,7,3.4962064721263275e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,muslim,persons,314.9271645,0.015729291296761323
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,no_religion,persons,11402.0439196,0.569484282102488
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,other_christian,persons,733.3733268,0.036628922452042516
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,other_religion,persons,32.6485907,0.0016306602015877631
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,pagan,persons,69.6932827,0.0034808872291352826
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,religion_not_stated,persons,1023.2815917,0.05110862462441814
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,roman_catholic,persons,3310.4856484,0.16534487642596288
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,religion,sikh,persons,7.9973972,3.9943645501149954e-4
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,buddhist,persons,15527,0.0028541544886712474
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,church_of_scotland,persons,1107708,0.20361755396000839
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,hindu,persons,29961,0.005507395030274956
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,jewish,persons,5829,0.001071479778093946
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,muslim,persons,120104,0.02207737300878286
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,no_religion,persons,2780882,0.5111783887914649
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,other_christian,persons,279435,0.05136540603734463
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,other_religion,persons,12421,0.0022832132996577293
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,pagan,persons,19239,0.003536489869745999
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,religion_not_stated,persons,334740,0.06153150470392306
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,roman_catholic,persons,723310,0.1329579753462227
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,nation,religion,sikh,persons,10984,0.0020190656858095563
-dundee,Dundee,brechnin,Brechin,scotland,Scotland,NA,NA,NA,NA,NA,NA
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_0_4,persons,968.1695564,0.048391594999050005
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_100_plus,persons,2,9.996512424742465e-5
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_10_14,persons,1415.0028449,0.07072546760044393
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_15_19,persons,1257.3747131,0.06284680971030572
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_20_24,persons,931.5935884,0.04656343440625509
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_25_29,persons,1073.3398995,0.0536482782066179
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_30_34,persons,1296.6944244,0.0648121096230444
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_35_39,persons,1331.9573182,0.06657463940306477
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_40_44,persons,1248.5068752,0.062403572451565956
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_45_49,persons,1145.7314511,0.05726659343169682
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_50_54,persons,1479.8196403,0.07396517710318438
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_55_59,persons,1519.2020128,0.0759336089832448
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_5_9,persons,1214.3814977,0.06069789865067707
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_60_64,persons,1354.7207329,0.06771241319245534
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_65_69,persons,1118.2584125,0.05589342057314518
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_70_74,persons,962.8089554,0.04812365842654707
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_75_79,persons,766.2618257,0.03829972930607948
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_80_84,persons,510.8921178,0.025535697016453456
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_85_89,persons,275.4552635,0.0137679598201923
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_90_94,persons,114.040042,0.005700013483855763
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_95_99,persons,20.7664122,0.0010379584878731176
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_0_4,persons,13030.4681,0.044826691499486426
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_100_plus,persons,44.85726,1.5431545053490843e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_10_14,persons,16489.28154,0.056725509089098375
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_15_19,persons,17349.55654,0.059684979288769924
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_20_24,persons,20279.63548,0.06976487386389436
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_25_29,persons,17412.3275,0.05990092045354255
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_30_34,persons,18432.02103,0.06340881341199522
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_35_39,persons,18519.68239,0.06371038114624612
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_40_44,persons,17224.57706,0.05925503183402527
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_45_49,persons,16795.8348,0.057780096561223175
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_50_54,persons,19621.16402,0.06749963697661505
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_55_59,persons,21222.21998,0.07300750062675776
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_5_9,persons,15786.0165,0.05430617581967776
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_60_64,persons,19616.84711,0.06748478618297386
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_65_69,persons,16355.80547,0.056266332138083554
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_70_74,persons,15364.63101,0.052856548897787674
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_75_79,persons,11870.48256,0.04083617377238764
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_80_84,persons,7920.71943,0.027248418369758946
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_85_89,persons,4794.63336,0.016494230969481903
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_90_94,persons,2118.8323,0.007289089012178102
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,age-five-year,age_95_99,persons,435.88131,0.001499494635481438
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_0_4,persons,248693,0.04570949959095555
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126,2.069575602828224e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_10_14,persons,301759,0.05546297196570533
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_15_19,persons,299617,0.055069274724030545
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_20_24,persons,341421,0.06275280389815409
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_25_29,persons,337384,0.062010807742859456
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_30_34,persons,357096,0.06563385164010191
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_35_39,persons,346769,0.063735760410048
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_40_44,persons,334249,0.0614345981944699
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_45_49,persons,328916,0.06045439866606111
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_50_54,persons,390980,0.07186169353408339
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_55_59,persons,408979,0.07516988991732541
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_5_9,persons,282489,0.051921167181824344
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_60_64,persons,371679,0.06831419098433317
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_65_69,persons,314699,0.05784132971886672
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_70_74,persons,285007,0.05238397280952608
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_75_79,persons,218262,0.04011631529524812
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_80_84,persons,142093,0.02611653695672032
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_85_89,persons,85879,0.015784465647893875
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_90_94,persons,35343,0.006496004487633918
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,age-five-year,age_95_99,persons,8289,0.0015235090738759457
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,african_african_african_scottish_or_african_british,persons,16.1931273,8.078282469990904e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,african_other_african,persons,163.7549423,0.008169260052420276
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,14.6452328,7.306082710606234e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,35.0789675,0.001749988146024336
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,41.6098018,0.002075792564545182
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,40.4593906,0.002018401879854886
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,234.7756766,0.01171227890401401
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,3,1.496613159458872e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,8,0.00039909684252236583
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,4.0040373,1.9974983047147237e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,mixed_or_multiple_ethnic_group,persons,170.6383912,0.008512655392627032
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,44.7190472,0.0022309038172660806
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,17.9818705,8.970634673995094e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,other_white,persons,323.2725546,0.016127131976874886
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_gypsy_traveller,persons,17.0005547,8.481084627373457e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_other_white_british,persons,697.6366555,0.03480307330473918
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_irish,persons,71.7829003,0.003581041107103473
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_polish,persons,446.7719984,0.022288161736105934
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group,white_white_scottish,persons,17693.9349177,0.8826991946812884
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,african_african_african_scottish_or_african_british,persons,131.07048,4.5095159907451965e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,african_other_african,persons,2607.02829,0.008969552688050053
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,732.40073,0.0025198448983847887
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,1777.09114,0.006114131048304401
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,2443.27631,0.008406159487440588
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,1823.43384,0.006273574384976631
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,3745.10247,0.01288512827254797
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,28.95846,9.963237979852912e-5
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,96.8578,3.3324193054637484e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,169.58859,5.834742181862239e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,mixed_or_multiple_ethnic_group,persons,3074.90811,0.01057930610471335
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,1473.48447,0.005069563932000334
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,1149.27566,0.003954114585179088
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,other_white,persons,8250.84725,0.02838726737788023
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,white_gypsy_traveller,persons,231.74388,7.97321206588498e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,white_other_white_british,persons,23584.91265,0.08114454203227428
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,white_white_irish,persons,2123.74319,0.007306796980938206
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,white_white_polish,persons,4990.93963,0.017171465359956655
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group,white_white_scottish,persons,232218.43656,0.7989539315131592
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932,0.0010904806663035408
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763,0.00969943213017089
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904,0.0012691636075791715
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,47276,0.008690755896858766
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,52878,0.00972057260161811
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,32258,0.0059299941560383715
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,72860,0.013393867388212403
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,532,9.779765921670325e-5
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,2220,4.081030140245888e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,3984,7.32379463006289e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,mixed_or_multiple_ethnic_group,persons,60839,0.011184044716325205
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,22278,0.004095368894792698
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,27282,0.0050152551480265005
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,other_white,persons,163635,0.03008105256752864
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,white_gypsy_traveller,persons,3326,6.114192002908929e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,white_other_white_british,persons,510471,0.09383997913159722
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766,0.010435304366720632
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721,0.01667725834924537
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878,0.777027771042444
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,african_total,persons,174.9480696,0.008814185170661779
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,360.4677309,0.01816098534533862
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,caribbean_or_black_total,persons,15.0040373,7.559292501602785e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,other_ethnic_groups_total,persons,59.7009177,0.0030078350945476184
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,ethnic-group-grouped,white_total,persons,19238.3469375,0.9692610651392917
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group-grouped,african_total,persons,2732.09912,0.00950455041179323
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,10507.93349,0.03655547591533772
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group-grouped,caribbean_or_black_total,persons,287.38024,9.99751421329559e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group-grouped,other_ethnic_groups_total,persons,2610.7619,0.009082436984108789
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,ethnic-group-grouped,white_total,persons,271313.51961,0.9438577852674307
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632,0.010901073206864374
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967,0.039409670221712045
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739,0.001252939219897991
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588,0.009219580061774979
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627,0.9392167372897506
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,buddhist,persons,31.0963679,0.0015531331815943053
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,church_of_scotland,persons,3062.0004009,0.1529340802754284
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,hindu,persons,27.1531325,0.001356185108357196
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,jewish,persons,7,3.4962064721263275e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,muslim,persons,314.9271645,0.015729291296761323
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,no_religion,persons,11402.0439196,0.569484282102488
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,other_christian,persons,733.3733268,0.036628922452042516
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,other_religion,persons,32.6485907,0.0016306602015877631
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,pagan,persons,69.6932827,0.0034808872291352826
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,religion_not_stated,persons,1023.2815917,0.05110862462441814
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,roman_catholic,persons,3310.4856484,0.16534487642596288
+dundee,Dundee,brechin,Brechin,scotland,Scotland,centre-of-mission,religion,sikh,persons,7.9973972,3.9943645501149954e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,buddhist,persons,1023.66807,0.0035210984805168393
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,church_of_scotland,persons,55474.32045,0.19081433832765657
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,hindu,persons,1366.42031,0.004700059148360805
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,jewish,persons,142.67162,4.907458180217303e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,muslim,persons,6912.8397,0.023778009764167485
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,no_religion,persons,163872.95979,0.5636718059540199
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,other_christian,persons,14274.66121,0.049100376742652205
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,other_religion,persons,619.96759,0.0021324949005381076
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,pagan,persons,1146.01646,0.0039419387340598475
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,religion_not_stated,persons,16995.68776,0.05845985832797798
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,roman_catholic,persons,28688.62478,0.09867991010110899
+dundee,Dundee,brechin,Brechin,scotland,Scotland,diocese,religion,sikh,persons,206.2291,7.093637009195327e-4
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,buddhist,persons,15527,0.0028541544886712474
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,church_of_scotland,persons,1107708,0.20361755396000839
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,hindu,persons,29961,0.005507395030274956
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,jewish,persons,5829,0.001071479778093946
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,muslim,persons,120104,0.02207737300878286
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,no_religion,persons,2780882,0.5111783887914649
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,other_christian,persons,279435,0.05136540603734463
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,other_religion,persons,12421,0.0022832132996577293
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,pagan,persons,19239,0.003536489869745999
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,religion_not_stated,persons,334740,0.06153150470392306
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,roman_catholic,persons,723310,0.1329579753462227
+dundee,Dundee,brechin,Brechin,scotland,Scotland,nation,religion,sikh,persons,10984,0.0020190656858095563
 west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_0_4,persons,4648.11252,0.0374386454344757
 west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_100_plus,persons,43.65414,3.5161624469602187e-4
 west-highlands,West Highlands,argyll-the-isles,Argyll and the Isles,scotland,Scotland,diocese,age-five-year,age_10_14,persons,6236.91804,0.05023582413264064
