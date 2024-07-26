@@ -170,6 +170,27 @@ a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,pagan,persons,19239
 a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,religion_not_stated,persons,334740
 a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,roman_catholic,persons,723310
 a7,A7,edinburgh,Edinburgh,scotland,Scotland,nation,religion,sikh,persons,10984
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_0_4,persons,29932.86154
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_100_plus,persons,143.98812
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_10_14,persons,39119.3376
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_15_19,persons,39008.98549
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_20_24,persons,40636.93885
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_25_29,persons,36010.03136
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_30_34,persons,38949.20174
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_35_39,persons,39597.54015
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_40_44,persons,40149.57591
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_45_49,persons,41060.50935
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_50_54,persons,50668.27108
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_55_59,persons,53547.55502
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_5_9,persons,34661.45334
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_60_64,persons,48803.76541
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_65_69,persons,41922.81474
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_70_74,persons,39848.42005
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_75_79,persons,31767.45673
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_80_84,persons,19778.28194
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_85_89,persons,11859.07525
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_90_94,persons,5118.25355
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,age-five-year,age_95_99,persons,1286.24346
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_0_4,persons,248693
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_100_plus,persons,1126
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_10_14,persons,301759
@@ -191,6 +212,25 @@ central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dun
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_85_89,persons,85879
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_90_94,persons,35343
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,age-five-year,age_95_99,persons,8289
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,african_african_african_scottish_or_african_british,persons,271.68933
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,african_other_african,persons,2104.58551
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,279.92875
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_chinese_chinese_scottish_or_chinese_british,persons,3020.36238
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_indian_indian_scottish_or_indian_british,persons,3113.28666
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_other_asian,persons,3018.55305
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,asian_asian_scottish_or_asian_british_pakistani_pakistani_scottish_or_pakistani_british,persons,4113.17512
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,caribbean_or_black_black_black_scottish_or_black_british,persons,46.04159
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,caribbean_or_black_caribbean_caribbean_scottish_or_caribbean_british,persons,242.69694
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,caribbean_or_black_other_caribbean_or_black,persons,312.61063
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,mixed_or_multiple_ethnic_group,persons,6024.57097
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_arab_arab_scottish_or_arab_british,persons,1267.29665
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,other_ethnic_groups_other_ethnic_group,persons,2173.92815
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,other_white,persons,19855.17835
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_gypsy_traveller,persons,715.82275
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_other_white_british,persons,73363.30006
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_white_irish,persons,5628.10193
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_white_polish,persons,10563.67595
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group,white_white_scottish,persons,547200.17041
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,african_african_african_scottish_or_african_british,persons,5932
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,african_other_african,persons,52763
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,asian_asian_scottish_or_asian_british_bangladeshi_bangladeshi_scottish_or_bangladeshi_british,persons,6904
@@ -210,11 +250,28 @@ central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dun
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_irish,persons,56766
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_polish,persons,90721
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group,white_white_scottish,persons,4226878
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,african_total,persons,2385.27556
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,13531.39615
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,caribbean_or_black_total,persons,596.37388
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,other_ethnic_groups_total,persons,3429.26269
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,ethnic-group-grouped,white_total,persons,657411.64252
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,african_total,persons,58632
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,asian_asian_scottish_or_asian_british_total,persons,211967
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,caribbean_or_black_total,persons,6739
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,other_ethnic_groups_total,persons,49588
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,ethnic-group-grouped,white_total,persons,5051627
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,buddhist,persons,1770.80538
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,church_of_scotland,persons,145985.86316
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,hindu,persons,1713.37461
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,jewish,persons,420.71111
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,muslim,persons,6417.28354
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,no_religion,persons,393047.71201
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,other_christian,persons,35562.32076
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,other_religion,persons,1669.14292
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,pagan,persons,2725.95791
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,religion_not_stated,persons,40935.07418
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,roman_catholic,persons,52728.61302
+central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,diocese,religion,sikh,persons,684.75509
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,buddhist,persons,15527
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,church_of_scotland,persons,1107708
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,hindu,persons,29961
@@ -227,7 +284,6 @@ central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dun
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,religion_not_stated,persons,334740
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,roman_catholic,persons,723310
 central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,nation,religion,sikh,persons,10984
-central-fife,Central Fife,st-andrews-dunkeld-dunblane,"St Andrews, Dunkeld & Dunblane",scotland,Scotland,NA,NA,NA,NA,NA
 dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_0_4,persons,968.1695564
 dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_100_plus,persons,2
 dundee,Dundee,brechnin,Brechin,scotland,Scotland,centre-of-mission,age-five-year,age_10_14,persons,1415.0028449
