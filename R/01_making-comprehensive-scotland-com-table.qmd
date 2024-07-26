@@ -115,7 +115,7 @@ diocesan_data <- map(diocesan_data,
                                 str_squish() |> 
                                 str_remove_all("[:punct:]") |> 
                                 str_replace_all(" ", "-") |> 
-                                str_remove_all("-and"))
+                                str_replace_all("-and-", "-"))
                        })
 
 national_data <-
